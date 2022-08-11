@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MoviesTest/static/css/main.334bdeb1.css",
+    "main.js": "/MoviesTest/static/js/main.b7658e63.js",
+    "index.html": "/MoviesTest/index.html",
+    "static/media/search.svg": "/MoviesTest/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/MoviesTest/static/css/main.334bdeb1.css.map",
+    "main.b7658e63.js.map": "/MoviesTest/static/js/main.b7658e63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.b7658e63.js"
+  ]
+}
